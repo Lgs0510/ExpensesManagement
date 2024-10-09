@@ -1,3 +1,6 @@
 [submodule "creditCards"]
 	path = creditCards
 	url = git@github.com:Lgs0510/creditCards.git
+[submodule "walletManager"]
+	path = walletManager
+	url = git@github.com:Lgs0510/walletManager.git
